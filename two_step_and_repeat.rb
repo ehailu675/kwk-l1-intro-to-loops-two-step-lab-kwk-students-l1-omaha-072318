@@ -37,6 +37,7 @@ end
 
 steps = 0
 def how_many_steps
+  puts 
 
 
   # Write a loop that fulfills all criteria from Part 3 of the README.md
