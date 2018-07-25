@@ -39,8 +39,8 @@ steps = 0
 def how_many_steps
 loop do
     steps += 1
-    puts "#{steps} Left" if steps % 2 = 0
-    puts "#{steps} Right" if steps % 2 =! 0
+    puts "Left" if steps % 2 = 0
+    puts " Right" if steps % 2 =! 0
 end
 end
   # Write a loop that fulfills all criteria from Part 3 of the README.md
