@@ -31,6 +31,7 @@ def a_few_more_steps
     sleep(0.5)
     puts "Turn"
     sleep (1)
+  end
   # Write a loop that outputs the first two sets of steps in the Two-Step
 end
 
