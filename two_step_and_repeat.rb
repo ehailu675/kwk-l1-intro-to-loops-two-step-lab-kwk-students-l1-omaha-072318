@@ -59,7 +59,7 @@ def break_dance
         puts "Left"
       else 
         puts "Right"
-      if steps >= 6
+      if steps >= 5
       break
     end
     end
