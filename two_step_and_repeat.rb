@@ -35,7 +35,7 @@ def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
 end
 
-  steps = 0
+steps = 0
 def how_many_steps
 loop do
     steps += 1
