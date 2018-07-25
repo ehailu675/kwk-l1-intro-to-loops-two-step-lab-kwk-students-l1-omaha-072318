@@ -1,21 +1,6 @@
-# loop do
-#   break
-#   puts "Now watch me whip"
-#   puts "Watch me nae nae"
-#   puts "Now watch me whip, whip"
-#   puts "Now watch me nae nae"
-#   puts "Ooooh, watch me, watch me"
-#   puts "Ooooh, watch me, watch me"
-#   puts "Ooooh, watch me, watch me"
-# end 
-# puts "Do the stanky leg"
-# puts "Do the stanky leg"
-
-counter =  123
-loop do
-  counter += 19
-   puts "There are #{counter} bottles of soda."
-   if counter >= 1000
-    break 
+num_of_hotdogs_eaten = 0
+  while num_of_hotdogs_eaten < 7
+    num_of_hotdogs_eaten += 1
+    puts "You have now eaten #{num_of_hotdogs_eaten} hot dog(s)."
   end
-end
+  puts "You ate a total of #{num_of_hotdogs_eaten} hot dogs!"
