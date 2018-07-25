@@ -10,4 +10,3 @@ loop do
 end 
 puts "Do the stanky leg"
 puts "Do the stanky leg"
-exit
