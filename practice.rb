@@ -11,7 +11,7 @@
 # puts "Do the stanky leg"
 # puts "Do the stanky leg"
 
-counter = 0
+counter = 2
 
 loop do 
   counter += 1
