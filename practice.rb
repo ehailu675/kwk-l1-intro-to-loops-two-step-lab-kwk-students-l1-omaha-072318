@@ -11,12 +11,12 @@
 # puts "Do the stanky leg"
 # puts "Do the stanky leg"
 
-counter = 9
+# counter = 9
 
-loop do 
-  counter += 1
-  puts "Iteration #{counter} of the loop"
-  if counter >= 10 
-    break
-  end
-end
+# loop do 
+#   counter += 1
+#   puts "Iteration #{counter} of the loop"
+#   if counter >= 10 
+#     break
+#   end
+# end
