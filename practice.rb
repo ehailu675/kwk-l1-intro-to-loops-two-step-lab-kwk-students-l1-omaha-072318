@@ -11,5 +11,11 @@
 # puts "Do the stanky leg"
 # puts "Do the stanky leg"
 
-counter = 
-loop Docounter
+counter =  123
+loop do
+  counter += 19
+   puts "There are #{counter} bottles of soda."
+   if counter >= 1000
+    break 
+  end
+end
